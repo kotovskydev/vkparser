@@ -1,0 +1,16 @@
+{
+    "name": "app/vkparser",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kotovsky"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "project\\": ""
+        }
+    }
+}
